@@ -1,15 +1,17 @@
 # paper
-国際会議のことや論文メモ
+Notes related to data mining, web science, machine learning and so on.
 
-### Date 
+### List
 
-- AAAI Feb.
-- WSDM Feb.
-- WebConf Apr.
-- CHI Apr.
-- KDD Aug.
-- CIKM Oct.
-- RecSys Oct.
-- ICDM Nov.
-- ICML Dec.
-- NIPS Dec.
+|Conf|Date|
+|---|---|
+|AAAI|Feb.|
+|WSDM|Feb.|
+|WebConf|Apr.|
+|CHI|Apr.|
+|KDD|Aug.|
+|CIKM|Oct.|
+|RecSys|Oct.|
+|ICDM|Nov.|
+|ICML|Dec.|
+|NIPS|Dec.|
