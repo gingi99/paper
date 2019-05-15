@@ -11,6 +11,7 @@ Notes related to data mining, web science, machine learning and so on.
 |CHI|Apr.|
 |KDD|Aug.|
 |CIKM|Oct.|
+|ECML-PKDD|Sep 16-20, Würzburg|
 |RecSys|Sep 16-20, Copenhagen|
 |ICDM|Nov 8-11, Beijing|
 |ICML|Dec.|
