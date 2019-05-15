@@ -8,8 +8,8 @@ Notes related to data mining, web science, machine learning and so on.
 |AAAI|Feb.|
 |WSDM|Feb.|
 |WebConf|Apr.|
-|SIGIR|Jul. 21-25, Paris|
 |CHI|Apr.|
+|SIGIR|Jul. 21-25, Paris|
 |KDD|Aug.|
 |CIKM|Oct.|
 |ECML-PKDD|Sep 16-20, Würzburg|
