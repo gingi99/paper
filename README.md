@@ -12,6 +12,8 @@ Notes related to data mining, web science, machine learning and so on.
 |CHI|Apr.|
 |SIGIR|Jul. 21-25, Paris|
 |KDD|Aug.|
+|VLDB|Aug 26-30, Los|
+|HT|Sep 17-20, Hof,Germany|
 |CIKM|Oct.|
 |ECML-PKDD|Sep 16-20, Würzburg|
 |RecSys|Sep 16-20, Copenhagen|
