@@ -3,7 +3,7 @@ Notes related to data mining, web science, machine learning and so on.
 
 ### List
 
-|Conf|Date|
+|Conf|2019|
 |---|---|
 |AAAI|Feb.|
 |WSDM|Feb.|
@@ -11,7 +11,7 @@ Notes related to data mining, web science, machine learning and so on.
 |CHI|Apr.|
 |KDD|Aug.|
 |CIKM|Oct.|
-|RecSys|Oct.|
+|RecSys|Sep 16-20, Copenhagen|
 |ICDM|Nov.|
 |ICML|Dec.|
 |NIPS|Dec.|
