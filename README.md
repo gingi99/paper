@@ -3,7 +3,7 @@ Notes related to data mining, web science, machine learning and so on.
 
 ### List
 
-|Conf|2019|202-|
+|Conf|2019|2020|
 |---|---|---|
 |AAAI|Feb.||
 |WSDM|Feb.||
