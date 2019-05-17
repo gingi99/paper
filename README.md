@@ -11,7 +11,7 @@ Notes related to data mining, web science, machine learning and so on.
 |InfoCom|Apr 29 - May2, Paris||
 |CHI|Apr.|Apr 25-30, Honolulu, Hawaii|
 |SIGIR|Jul 21-25, Paris|
-|KDD|Aug.|
+|KDD|Aug 4-8, Anchorage, Alaska|San Diego, California|
 |VLDB|Aug 26-30, Los|
 |HT|Sep 17-20, Hof,Germany|
 |CIKM|Oct.|
