@@ -3,13 +3,13 @@ Notes related to data mining, web science, machine learning and so on.
 
 ### List
 
-|Conf|2019|
-|---|---|
-|AAAI|Feb.|
-|WSDM|Feb.|
-|WebConf|Apr.|
-|InfoCom|Apr29 - May2, Paris|
-|CHI|Apr.|
+|Conf|2019|202-|
+|---|---|---|
+|AAAI|Feb.||
+|WSDM|Feb.||
+|WebConf|Apr.||
+|InfoCom|Apr29 - May2, Paris||
+|CHI|Apr.|Apr.25-30, Honolulu, Hawaii|
 |SIGIR|Jul. 21-25, Paris|
 |KDD|Aug.|
 |VLDB|Aug 26-30, Los|
