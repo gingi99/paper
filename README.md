@@ -17,6 +17,7 @@ Notes related to data mining, web science, machine learning and so on.
 |IJCAI|Aug 10-16, Macao|Yokohama|
 |VLDB|Aug 26-30, Los|Aug 31 - Sep 4, Keio Plaza Hotel Tokyo|
 |HT|Sep 17-20, Hof,Germany||
+|WebDB Forum|Sep 8-9, Shinjuku|
 |WI|Oct 14-17, Greece|
 |CIKM|Nov 3-7, Beijing|Oct 19-23, Ireland|
 |ECML-PKDD|Sep 16-20, Würzburg|
