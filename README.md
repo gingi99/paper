@@ -11,6 +11,7 @@ Notes related to data mining, web science, machine learning and so on.
 |InfoCom|Apr 29 - May2, Paris||
 |ICDE||Apr 20-24, Dallas|
 |CHI|Apr.|Apr 25-30, Honolulu, Hawaii|
+|ICWSM|Jun 11-14, Munich, Germary|Jun 1-5, Atlanta, GA, USA|
 |SIGIR|Jul 21-25, Paris|
 |KDD|Aug 4-8, Anchorage, Alaska|San Diego, California|
 |IJCAI|Aug 10-16, Macao|Yokohama|
