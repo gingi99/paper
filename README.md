@@ -1,5 +1,5 @@
 # paper
-Notes related to data mining, web science, machine learning and so on.
+Data mining, web science, machine learning and so on.
 
 ### List
 
@@ -23,6 +23,7 @@ Notes related to data mining, web science, machine learning and so on.
 |ECML-PKDD|Sep 16-20, Würzburg|
 |RecSys|Sep 16-20, Copenhagen|Rio, Brazil|
 |ICDM|Nov 8-11, Beijing|
+|SocInfo|Nov 18-21, Doha, Qatar|
 |ICML|Dec.|
 |NIPS|Dec.|
 |BigData|Dec 9-12, Los|
