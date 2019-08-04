@@ -11,6 +11,7 @@ Data mining, web science, machine learning and so on.
 |InfoCom|Apr 29 - May2, Paris||
 |ICDE||Apr 20-24, Dallas|
 |CHI|Apr.|Apr 25-30, Honolulu, Hawaii|
+|NetSci|May 27-31, USA|Jan, Tokyo|
 |ICWSM|Jun 11-14, Munich, Germary|Jun 1-5, Atlanta, GA, USA|
 |IC2S2|Jul 17-20, Amsterdam|Boston, USA
 |SIGIR|Jul 21-25, Paris|
