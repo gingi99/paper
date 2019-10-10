@@ -14,6 +14,7 @@ Data mining, web science, machine learning and so on.
 |NetSci|May 27-31, USA|Jan, Tokyo|
 |ICWSM|Jun 11-14, Munich, Germary|Jun 1-5, Atlanta, GA, USA|
 |IC2S2|Jul 17-20, Amsterdam|Boston, USA
+|useR!||Jul 7-10, St. Louis, MO, USA|
 |SIGIR|Jul 21-25, Paris|
 |KDD|Aug 4-8, Anchorage, Alaska|San Diego, California|
 |IJCAI|Aug 10-16, Macao|Yokohama|
