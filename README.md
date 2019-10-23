@@ -13,6 +13,7 @@ Data mining, web science, machine learning and so on.
 |CHI|Apr.|Apr 25-30, Honolulu, Hawaii|
 |NetSci|May 27-31, USA|Jan 20-23, Tokyo|
 |ICWSM|Jun 11-14, Munich, Germary|Jun 1-5, Atlanta, GA, USA|
+|EC|||
 |IC2S2|Jul 17-20, Amsterdam|Boston, USA
 |useR!||Jul 7-10, St. Louis, MO, USA|
 |SIGIR|Jul 21-25, Paris|
