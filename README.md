@@ -7,7 +7,7 @@ Data mining, web science, machine learning and so on.
 |---|---|---|
 |AAAI|Feb.||
 |WSDM|Feb.|Feb 5-9, Houston, TX||
-|WebConf|Apr.||
+|WebConf|Apr.|Apr 20-25, TW|
 |InfoCom|Apr 29 - May2, Paris||
 |ICDE||Apr 20-24, Dallas|
 |CHI|Apr.|Apr 25-30, Honolulu, Hawaii|
